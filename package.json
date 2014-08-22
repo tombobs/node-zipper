@@ -1,0 +1,12 @@
+{
+  "name": "c2a-zipper",
+  "description": "Library that wraps a function taking an array of urls as an argument, and returns a zip containing the responses.",
+  "version": "0.0.2",
+  "author": "Ashly Pridmore",
+  "dependencies": {
+    "async": "0.7.0",
+    "request": "2.34.0",
+    "spawn": "0.0.1",
+    "uuid": "1.4.1"
+  }
+}
